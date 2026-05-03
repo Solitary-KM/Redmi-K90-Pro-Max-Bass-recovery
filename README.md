@@ -7,3 +7,5 @@
 >> **lowPowerLongVideo —— 长视频**  
 >> **lowPowerGame —— 游戏**  
 >> **lowPowerSva —— 服务**  
+
+按照**<package name="应用包名"/>**添加进去一般即可生效，游戏试了不生效
