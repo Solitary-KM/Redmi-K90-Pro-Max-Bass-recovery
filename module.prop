@@ -1,0 +1,7 @@
+id=ReplaceLowPowerAudio
+name=红米K90PM低音恢复
+version=1.0
+versionCode=1
+author=Marisa
+description=恢复开启低音喇叭
+minKsuVersion=10000
